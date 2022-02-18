@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "http": "^0.0.1-security",
+    "knex": "^1.0.3",
+    "mssql": "^8.0.2",
+    "multiparty": "^4.2.3",
+    "tedious": "^14.3.0",
+    "xlsx": "^0.18.2"
+  }
+}
